@@ -58,8 +58,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=umesh-webdev25&layout=compact&theme=dracula&hide_border=false&cache_seconds=86400" height="165" alt="Top languages" />
 </div>
 
-> Note: this uses the `github-readme-stats-fast` community fork (built-in SVG caching) instead of the official demo instance, which has had frequent outages. If a card still shows broken, refresh in a few minutes, or see the bottom of this README for a permanent self-hosted fix.
-
 ---
 
 ## 🔥 Streak & Contribution Activity
