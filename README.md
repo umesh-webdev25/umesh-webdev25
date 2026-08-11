@@ -1,81 +1,75 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
-###
-
 <h3 align="center">I'm Umesh — Welcome to my GitHub Profile 🚀</h3>
 
----
-
-## 🧑‍💻 About Me  
-
-👨‍💻 I’m a passionate developer skilled in *C, C++, Java, Bootstrap, ReactJS, NodeJS, MongoDB, ExpressJS*.  
-🌟 I love exploring new technologies and traveling to new places.  
-📚 In my free time, I enjoy *reading books* and *watching scientific movies*.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umesh-webdev25&label=Profile%20Views&color=bd93f9&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## 💡 I Code With  
+## 🧑‍💻 About Me
 
-### 🖥 Programming Languages  
+- 👨‍💻 Full-stack developer working across **C, C++, Java, JavaScript/TypeScript, ReactJS, NodeJS, ExpressJS, MongoDB**
+- 🌱 Currently sharpening my skills in **TypeScript** and **system design**
+- 🌟 Always exploring new technologies and love traveling to new places
+- 📚 In my free time, I enjoy reading books and watching science-themed movies
+- 💬 Ask me about **React, Node.js, or MongoDB**
+
+---
+
+## 💡 Tech Stack
+
+### 🖥 Languages
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript" height="45" alt="Languages" />
+</div>
+
+### 🌐 Web Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb" height="45" alt="Web dev stack" />
+</div>
+
+### ⚙ Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,vscode,postman,vercel" height="45" alt="Tools" />
 </div>
 
 ---
 
-### ⚙ Technologies  
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo" />
-</div>
-
----
-
-### 🌐 Web Development  
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-</div>
-
----
-
-## 🌍 Connect With Me  
+## 🌍 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/umesh-gayakwad-93929b360/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:umeshgayakwad100@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 </div>
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=umesh-webdev25&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umesh-webdev25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> 
-</div>
-
----
-
-## 🔥 Streak & Contribution Graph  
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=umesh-webdev25&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umesh-webdev25&theme=react-dark&area=true" height="300" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umesh-webdev25&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umesh-webdev25&layout=compact&theme=dracula&hide_border=false&cache_seconds=86400" height="165" alt="Top languages" />
+</div>
+
+> Note: this section pulls from a free, shared community service that occasionally rate-limits under heavy traffic. If a card shows broken here, refresh in a few minutes — it usually resolves on its own. See the bottom of this README for a permanent fix if it keeps happening.
+
+---
+
+## 🔥 Streak & Contribution Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=umesh-webdev25&theme=dracula&hide_border=false&cache_seconds=86400" height="165" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umesh-webdev25&theme=dracula&area=true&hide_border=false" width="90%" alt="Activity graph" />
 </div>
 
 ---
@@ -87,3 +81,15 @@
 ---
 
 <h3 align="center">⭐ Thanks for visiting! Have a great day! ⭐</h3>
+
+<!--
+🔧 If the GitHub Stats / Streak cards above ever go blank again, it's almost always the
+shared vercel.app instance being rate-limited (it serves thousands of profiles for free).
+Fixes, easiest first:
+  1. Wait a few minutes and refresh — usually self-resolves.
+  2. Keep queries light — avoid combining count_private=true with include_all_commits=true,
+     since each adds extra GitHub API calls per request.
+  3. For a permanent fix, deploy your own free instance:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -> then swap
+     the domain above for your own *.vercel.app URL.
+-->
